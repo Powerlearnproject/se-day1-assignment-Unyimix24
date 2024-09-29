@@ -17,7 +17,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 Agile is flexible and iterative, emphasizing continuous feedback and adaptation. Waterfall is sequential and rigid, with distinct phases completed in order.Waterfall works well with teams that do not require constant collaboration while Agile is best suited for teams that can collaborate face to face.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+Software Developer is responsible for code writing and implementation of software solutions. A Quality Assurance Engineer is in charge  of ensuring the quality of the Software by designing and executing test plan. A Project Manager is the one that oversees the planning, execution and delivery of software projects  
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
