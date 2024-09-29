@@ -20,7 +20,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 Software Developer is responsible for code writing and implementation of software solutions. A Quality Assurance Engineer is in charge  of ensuring the quality of the Software by designing and executing test plan. A Project Manager is the one that oversees the planning, execution and delivery of software projects  
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+Integrated Development Environments are software suites for writing, debugging, and testing codes.Examples are Eclipse and Visual Studio. Version Control Systems are used for tracking changes in source code as well as work coordination among team members  Examples are Subversion and Git.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
