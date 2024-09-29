@@ -10,6 +10,12 @@ Software engineering is the systematic application of engineering principles, me
 Identify and describe at least three key milestones in the evolution of software engineering.
 The development of programming languages, advent of structured programming in 1970s, establishmentof software engineering as a discipline, and introduction of Agile methodologies.
 List and briefly explain the phases of the Software Development Life Cycle.
+Requirements: this entails the gathering and documentation of user needs and system requirements.
+Design: this entails creating high-level and detail design of the Software architecture and user interface.
+Implementation: this involves the writing of code and building the software according to the design specifications.
+Testing: this implies conducting of various tests to ensure that the software meets quality standards and functional requirements.
+Deployment: this entails releasing of the Software to users and customers.
+Maintenance: this involves providing ongoing support, updates and enhancements to the software after deployment.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
