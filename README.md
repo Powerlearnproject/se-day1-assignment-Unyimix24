@@ -26,7 +26,11 @@ What are some common challenges faced by software engineers? Provide strategies 
 Common challenges faced by software engineers include changing requirements, tight deadlines as well as technical debt.To overcome these challenges, the following strategies are required:effective communication, Agile methodologies, regular reassessment of timelines and goals, and task prioritisation.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Unit testing is a fundamental software development strategy where individual code units (functions, methods, classes) are isolated and tested independently.
+Integration testing is the testing of interactions between components and subsystems.
+System testing is the testing of the whole software system.
+Acceptance testing is the testing of the Software against user requirements to ensure that it meets the needs of the users.
+Testing is very important as it ensures early detection and fixing of defects during the development process.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
