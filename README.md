@@ -40,4 +40,5 @@ Prompt Engineering entails the art of crafting statements or questions to get th
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt:What's the benefits of exercise?
-Improved prompt:
+Improved prompt:What are the physiological and psychological benefits of incorporating regular cardiovascular exercise into a weekly routine, and how does it enhance overall well-being?
+The improved prompt is specific, concise and in context. 
